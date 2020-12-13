@@ -1,5 +1,4 @@
-# Machine-learning--- project health
+# Machine-learning project health
 
-# Modelo de machine learning - Regreessão logistica
-
-# Análise exploratoria
+Modelo de machine learning - Regreessão logistica.
+Análise exploratoria.
