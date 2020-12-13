@@ -1,4 +1,4 @@
-# Machine-learning project health
+# Machine-learning project Hígia
 
 Modelo de machine learning - Regreessão logistica.
 
