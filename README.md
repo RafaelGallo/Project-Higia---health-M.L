@@ -1,5 +1,5 @@
 # Machine-learning project Hígia
 
-Modelo de machine learning - Regreessão logistica.
+Modelo de machine learning 
 
 Análise exploratoria.
