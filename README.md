@@ -139,7 +139,7 @@ Agora que temos nosso ambiente Python todo configurado, podemos começar a traba
 jupyter notebook
 ```
     
-## Demo rede neural 
+## Demo modelo machine learning - Aplicado área da saúde 
 
 ```bash
   # Carregando as bibliotecas 
